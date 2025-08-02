@@ -1,3 +1,3 @@
 # fileconverter
 
-A new Flutter project.
+A File converter project on Flutter.
